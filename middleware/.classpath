@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-13">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/AndresZamora/Documents/Ingenieria/Tercero/Middleware/mq/lib/fscontext.jar"/>
+	<classpathentry kind="lib" path="/Users/AndresZamora/Documents/Ingenieria/Tercero/Middleware/mq/lib/glassfish-api.jar"/>
+	<classpathentry kind="lib" path="/Users/AndresZamora/Documents/Ingenieria/Tercero/Middleware/mq/lib/grizzly-framework.jar"/>
+	<classpathentry kind="lib" path="/Users/AndresZamora/Documents/Ingenieria/Tercero/Middleware/mq/lib/grizzly-http-server.jar"/>
+	<classpathentry kind="lib" path="/Users/AndresZamora/Documents/Ingenieria/Tercero/Middleware/mq/lib/grizzly-http-servlet.jar"/>
+	<classpathentry kind="lib" path="/Users/AndresZamora/Documents/Ingenieria/Tercero/Middleware/mq/lib/grizzly-http.jar"/>
+	<classpathentry kind="lib" path="/Users/AndresZamora/Documents/Ingenieria/Tercero/Middleware/mq/lib/grizzly-portunif.jar"/>
+	<classpathentry kind="lib" path="/Users/AndresZamora/Documents/Ingenieria/Tercero/Middleware/mq/lib/grizzly-websockets.jar"/>
+	<classpathentry kind="lib" path="/Users/AndresZamora/Documents/Ingenieria/Tercero/Middleware/mq/lib/hk2-api.jar"/>
+	<classpathentry kind="lib" path="/Users/AndresZamora/Documents/Ingenieria/Tercero/Middleware/mq/lib/imq.jar"/>
+	<classpathentry kind="lib" path="/Users/AndresZamora/Documents/Ingenieria/Tercero/Middleware/mq/lib/imqadmin.jar"/>
+	<classpathentry kind="lib" path="/Users/AndresZamora/Documents/Ingenieria/Tercero/Middleware/mq/lib/imqbridgemgr.jar"/>
+	<classpathentry kind="lib" path="/Users/AndresZamora/Documents/Ingenieria/Tercero/Middleware/mq/lib/imqbroker.jar"/>
+	<classpathentry kind="lib" path="/Users/AndresZamora/Documents/Ingenieria/Tercero/Middleware/mq/lib/imqjmsbridge.jar"/>
+	<classpathentry kind="lib" path="/Users/AndresZamora/Documents/Ingenieria/Tercero/Middleware/mq/lib/imqjmx.jar"/>
+	<classpathentry kind="lib" path="/Users/AndresZamora/Documents/Ingenieria/Tercero/Middleware/mq/lib/imqservlet.jar"/>
+	<classpathentry kind="lib" path="/Users/AndresZamora/Documents/Ingenieria/Tercero/Middleware/mq/lib/imqstomp.jar"/>
+	<classpathentry kind="lib" path="/Users/AndresZamora/Documents/Ingenieria/Tercero/Middleware/mq/lib/imqutil.jar"/>
+	<classpathentry kind="lib" path="/Users/AndresZamora/Documents/Ingenieria/Tercero/Middleware/mq/lib/imqxm.jar"/>
+	<classpathentry kind="lib" path="/Users/AndresZamora/Documents/Ingenieria/Tercero/Middleware/mq/lib/javax.json.jar"/>
+	<classpathentry kind="lib" path="/Users/AndresZamora/Documents/Ingenieria/Tercero/Middleware/mq/lib/javax.servlet-api.jar"/>
+	<classpathentry kind="lib" path="/Users/AndresZamora/Documents/Ingenieria/Tercero/Middleware/mq/lib/javax.transaction-api.jar"/>
+	<classpathentry kind="lib" path="/Users/AndresZamora/Documents/Ingenieria/Tercero/Middleware/mq/lib/jaxm-api.jar"/>
+	<classpathentry kind="lib" path="/Users/AndresZamora/Documents/Ingenieria/Tercero/Middleware/mq/lib/jhall.jar"/>
+	<classpathentry kind="lib" path="/Users/AndresZamora/Documents/Ingenieria/Tercero/Middleware/mq/lib/jms.jar"/>
+	<classpathentry kind="lib" path="/Users/AndresZamora/Documents/Ingenieria/Tercero/Middleware/mq/lib/tyrus-standalone-client.jar"/>
+	<classpathentry kind="lib" path="/Users/AndresZamora/Documents/Ingenieria/Segundo/Algoritmos y estructuras de datos/Laboratorios-20200920/aedlib.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
